@@ -1,0 +1,1 @@
+var destination = ['sajek', 'coxbazar', 'nepal', 'bali', 'thailand*']
